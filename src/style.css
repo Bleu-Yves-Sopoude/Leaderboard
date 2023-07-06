@@ -1,6 +1,6 @@
 :root {
-    --primary: #ddd;
-    --secondary: #222020;
+    --primary: #6479cf;
+    --secondary: #965858;
   }
   
   * {
@@ -16,6 +16,9 @@
   .add-score,
   .form {
     display: flex;
+    flex:content;
+    margin: 3%;
+    padding: 2%;
   }
   
   body {
@@ -23,6 +26,7 @@
     background: var(--primary);
     margin: 20px;
     gap: 30px;
+    
   }
   
   h1 {
