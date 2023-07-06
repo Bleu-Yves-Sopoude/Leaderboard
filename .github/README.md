@@ -169,7 +169,7 @@ If you like this project don't hesitate to give a star and follow me on github!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Thanks to Microverse for this life changing experience.
+Thanks to Microverse for this life-changing experience.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
