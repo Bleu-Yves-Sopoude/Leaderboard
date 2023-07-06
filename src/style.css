@@ -10,7 +10,7 @@
 }
 
 body,
-.board{ -ms-flex-align: center;}
+.board,
 .recent-score,
 .title,
 .add-score,
