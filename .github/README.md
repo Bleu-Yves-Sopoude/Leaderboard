@@ -23,7 +23,6 @@
     - [Usage](#usage)
     - [Run tests](#run-tests)
   - [👥 Author ](#-author-)
-  - [Live Demo ](#live-demo-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -95,7 +94,8 @@ npm install
 
 To run the project:
 
-- Clone this repo to your local machine.
+- npm run build
+- npm start
 
 ### Run tests
 
@@ -128,25 +128,20 @@ npx eslint .
 👤 **Bleu Yves Sopoude (MrBlue)**
 
 - GitHub: [@Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude)
+- Linkedin: [@in/bleu-yves](https://www.linkedin.com/in/bleu-yves/)
+- GitHub: [@bleuYves](https://twitter.com/bleuYves)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## Live Demo <a name="Live-demo"></a>
-
-
-- Here is the live demo link: <a href="">Live demo</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
 - **[ Drag and drop ]**
+- **[ API Calls ]**
+- **[ Implement the "Refresh" button that will get all scores]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
