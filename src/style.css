@@ -1,9 +1,4 @@
-:root {
-    --primary: #6479cf;
-    --secondary: #965858;
-  }
-  
-  * {
+ * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
