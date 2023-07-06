@@ -23,7 +23,6 @@
     - [Usage](#usage)
     - [Run tests](#run-tests)
   - [👥 Author ](#-author-)
-  - [Live Demo ](#live-demo-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -139,12 +138,10 @@ npx eslint .
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
--Gitflow
--ES6 modules
--No linter errors.
--Best practices for JavaScript.
 
 - **[ Drag and drop ]**
+- **[ API Calls ]**
+- **[ Implement the "Refresh" button that will get all scores]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
