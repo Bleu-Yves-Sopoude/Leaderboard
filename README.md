@@ -161,7 +161,7 @@ Feel free to check the [issues page](https://github.com/Bleu-Yves-Sopoude/Leader
 
 If you like this project don't hesitate to give a star and follow me on github!
 
-- GitHub: [@mariegrace31](https://github.com/Bleu-Yves-Sopoude)
+- GitHub: [@Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
