@@ -1,9 +1,10 @@
-
 <a name="readme-top"></a>
 
 <div align="center">
-  
-  <h2><b> Awesomebook</b></h3>
+
+  <br/>
+
+  <h2><b>Leaderboard</b></h2>
 
 </div>
 
@@ -11,45 +12,38 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-- [👥 Author](#author)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Leaderdoard\] ](#-leaderdoard-)
+  - [🛠 Built With ](#-built-with-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+  - [👥 Author ](#-author-)
+  - [Live Demo ](#live-demo-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-# 📖 Awesomebook <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
 
-**Awesomebook** is a repository.The goal is to master all of the tools and best practices learned in previous steps.
+# 📖 [Leaderdoard] <a name="about-project"></a>
+
+**[Leaderboard]** Is a website project built with webpack files that allows users to load scores.
 
 ## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.w3schools.com/html/">HTML</a></li>
-    <li><a href="https://www.w3schools.com/css/">css</a></li>
-    <li><a href="https://www.w3schools.com/js/">Javascript</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Form backend service</summary>
-  <ul>
-    <li><a href="https://formspree.io/html/">formspree</a></li>
+    <li><a href="https://www.w3schools.com/html/default.asp">HTML</a></li>
+    <li><a href="https://www.w3schools.com/css/default.asp">Css</a></li>
+    <li><a href="https://www.w3schools.com/javascript/default.asp">JS</a></li>
   </ul>
 </details>
 
@@ -57,15 +51,13 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Demo of Linters**
-<!-- - **Demo of Portfolio** -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link]
+- **[HTML Form]**
+- **[css flexbox]**
+- **[Semantic tags]**
+- **[Javascript]**
+- **[ES6 modules]**
+- **[webpack]**
+- **[Async]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,32 +65,35 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+To get a local copy up and running, follow these steps downbelow!
+
 ### Prerequisites
 
 In order to run this project you need:
 
-- web browser 
-- git-syn 
-- code editor
+- Web browser
+- Git-syn
+- Code editor
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/beyk/awesomebook4.git
+git clone https://github.com/Bleu-Yves-Sopoude/Leaderboard.git
 
 ### Install
 
-To install all dependencies, run:
+Install this project run the command:
+
 ```
+
 npm install
+
 ```
 
 ### Usage
 
-To run the project, execute the following command:
-
-To run the project, follow these instructions:
+To run the project:
 
 - Clone this repo to your local machine.
 
@@ -107,14 +102,19 @@ To run the project, follow these instructions:
 To run tests, run the following command:
 
 - Track HTML linter errors run:
+
 ```
 npx hint .
 ```
+
 - Track CSS linter errors run:
+
 ```
 npx stylelint "**/*.{css,scss}"
 ```
+
 - Track JavaScript linter errors run:
+
 ```
 npx eslint .
 ```
@@ -125,14 +125,19 @@ npx eslint .
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Bleu Yves**
+👤 **Bleu Yves Sopoude (MrBlue)**
 
 - GitHub: [@Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude)
 
-👤 **Asghar Beykmohammadi**
 
-- GitHub: [@beyk](https://github.com/beyk)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## Live Demo <a name="Live-demo"></a>
+
+
+- Here is the live demo link: <a href="">Live demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,8 +145,8 @@ npx eslint .
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-<!-- - [ ] **Portfolio: mobile menu** -->
-- [ ] **Add Model**
+
+- **[ Drag and drop ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +156,7 @@ npx eslint .
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/beyk/awesomebook4/issues).
+Feel free to check the [issues page](https://github.com/Bleu-Yves-Sopoude/Leaderboard/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +164,9 @@ Feel free to check the [issues page](https://github.com/beyk/awesomebook4/issues
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give ⭐️
+If you like this project don't hesitate to give a star and follow me on github!
+
+- GitHub: [@Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,10 +174,9 @@ If you like this project give ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my teammembers
+Thanks to Microverse for this life-changing experience.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
