@@ -3,12 +3,9 @@
   --secondary: #d99090;
 }
 
-
-
 * {
   box-sizing: border-box;
   padding: 0;
-  
   max-width: 500px;
   margin: auto;
 }
@@ -27,7 +24,6 @@ body {
   background: var(--primary);
   margin: 20px;
   gap: 30px;
-  
 }
 
 h1 {
