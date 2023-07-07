@@ -1,7 +1,9 @@
 :root {
-  --primary: #2988d6;
+  --primary: #be82d2;
   --secondary: #d99090;
 }
+
+
 
 * {
   box-sizing: border-box;
@@ -48,8 +50,6 @@ h1 {
 
 .score-table {
   border: 2px solid black;
-  box-shadow: rgba(0, 0, 0, 0.25) 0% 54% 55%, rgba(0, 0, 0, 0.12) 0% -12% 30%, rgba(0, 0, 0, 0.12) 0% 4% 6%, rgba(0, 0, 0, 0.17) 0% 12% 13%, rgba(0, 0, 0, 0.09) 0% -3% 5%;
-
 }
 
 .score-table ul {
@@ -78,8 +78,6 @@ h1 {
   background-color: var(--primary);
   font-size: 15px;
   padding: 2px;
-  box-shadow: rgba(0, 0, 0, 0.25) 0% 54% 55%, rgba(0, 0, 0, 0.12) 0% -12% 30%, rgba(0, 0, 0, 0.12) 0% 4% 6%, rgba(0, 0, 0, 0.17) 0% 12% 13%, rgba(0, 0, 0, 0.09) 0% -3% 5%;
-
 }
 
 .add-score {
@@ -94,10 +92,6 @@ h1 {
 .form {
   flex-direction: column;
   gap: 12px;
-  box-shadow: rgba(0, 0, 0, 0.25) 0% 54% 55%, rgba(0, 0, 0, 0.12) 0% -12% 30%, rgba(0, 0, 0, 0.12) 0% 4% 6%, rgba(0, 0, 0, 0.17) 0% 12% 13%, rgba(0, 0, 0, 0.09) 0% -3% 5%;
-
-
-  
 }
 
 .submit {
