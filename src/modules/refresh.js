@@ -14,7 +14,7 @@ const refreshData = async () => {
     `;
   });
   table.innerHTML = placeholder;
-  refresh.addEventListener('click', async() => {
+  refresh.addEventListener ('click', async() => {
     await refreshData();
   });
 };
